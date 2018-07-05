@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Programming
+2. Projects
+3. Fortnite
+4. Super Smash Bros. Ultimate
