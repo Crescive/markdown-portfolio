@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Amongst my *My most awesome* attributes is that I am totally **awesome**. It is a **bodaciously awesome** attribute. 
